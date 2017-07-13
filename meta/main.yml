@@ -207,7 +207,8 @@ galaxy_info:
   #  - Any
 
   galaxy_tags:
-    - wp-cli
+    - web
+    - wp
     - wordpress
 
     # List tags for your role here, one per line. A tag is
