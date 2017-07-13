@@ -1,7 +1,7 @@
 wp-cli
 =========
 
-Setup configuration files for wp-cli.
+An Ansible role to install or update wp-cli.
 
 Requirements
 ------------
