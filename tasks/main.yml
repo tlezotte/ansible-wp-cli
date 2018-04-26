@@ -1,7 +1,7 @@
 ---
 # tasks file for wp-cli
 - name: Check if wp-cli exists
-  stat: path="{{ root_bin }}/wp-cli.phar"
+  stat: path="{{ root_bin }}/wp"
   register: wpcli_exist
   tags:
     - always
