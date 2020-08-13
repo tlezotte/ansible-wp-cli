@@ -1,5 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-.travis.yml
-handlers/
-tests/
-vars/
